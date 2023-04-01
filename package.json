@@ -1,0 +1,23 @@
+{
+  "name": "notion2discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rassi0429/notion2discord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rassi0429/notion2discord/issues"
+  },
+  "homepage": "https://github.com/rassi0429/notion2discord#readme",
+  "dependencies": {
+    "@notionhq/client": "^2.2.3",
+    "discord.js": "^14.8.0"
+  }
+}
